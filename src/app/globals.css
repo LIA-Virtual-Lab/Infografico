@@ -1,0 +1,10 @@
+.select-area {
+  position: relative;
+  background-image: url('/img/fig1.jpg'); 
+  background-size: cover;
+  background-position: center;
+  min-height: 35rem;
+}
+
+
+
