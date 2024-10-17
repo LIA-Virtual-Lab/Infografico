@@ -1,3 +1,9 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .select-area {
   position: relative;
   background-image: url('/img/fig1.jpg'); 
